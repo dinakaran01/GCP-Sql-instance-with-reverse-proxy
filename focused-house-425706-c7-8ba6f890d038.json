@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focused-house-425706-c7",
+  "private_key_id": "8ba6f890d038dc9f28efeeab73e8a5a1221fc3b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpLCTVoSa35/+T\n9mje9HhGUPG46O0tyFKF3MXLSH6rbyCxGyMiGek/mAoGuoHMpAWotcvtvdHmvtTD\nb+zH24q1HD/X7Qx/79AjztdSRW5cngU1edHhGPjCMfdygZ5nRvb6OqcTt8AC44A9\noWgVSlZToHdJkv3l8TlwMVNS3Dv2kVgIxvDlO+aD0y4y9Ou49lDwjM6kAeH2z/zp\nLCK++vX6DKam4kRt2EKjoyArCd8jJdq8BHh5ojnAfdqg1NLp2DJ+dR17M1jetsk1\nIAfyr/iAgeJSHAGauwnQ9+zmQAX1h4pkIa8uaXo5qBbrAuWlxNVM0YkGFWW1/pzz\neSOIU+aZAgMBAAECggEAChYSEKQZ6j1UazqV5FQcTynwjYMir/f5dpZz+wOknL1E\njFanPLdhhRuAHohUaJJvbXCAWvl2KC0gw5G64uwTnCp14n51QDP4u4fPpe2yj6ZS\nvm5XzXVHEJH41DyG6JauLztbvoTWN33fpZ0H1vweg0AmGI6BYYolL+ua8Y3kq9XD\n2h3Gg5iXNa4O1CCtIcqPdfhRauhL8JnMzB5SNO3TLsldvvYy71MgPveg7RI8dPxx\nCT2UIZH+f3hNlKR8wU4OFJmxq+GJWbiwVtsyezL6glxHRkcsbszmyrB/QnKihPIn\nMYGuDYQnKbeAHCiYypWS2OrixMCrAfsyanu0zD/e0QKBgQDo9EvtKHp3KoyzNRuD\nyAyy+eEaEdGhTx060fQpdayv2kaOZ7QRxLvoaYGzwo5ejkVhH4Ec5JwrUmuuY7Bk\nsDuGefhbLGLJM0KZBOZv6HscfMXANYtsLHG/lI8aL5k2ujBv/96zBrOJKdZs2zYF\nlyv+ARMJcI9g6yrcsW2PjQJYMQKBgQC56IjlS/HS6sNdHKAmz5vr+eERd78ZHTAC\nT58Cy2VpGEK9KilIXqm1j15N1ui73kEm/ZPRsyMPQmzP/HCPW4mpwVSnJWcFw4uS\n6VuM9TgUqBDWisSbXJ+3qPXq5q69PfdMuyl8muBYFGLk9Zq91C5UvLip0TKIaAvy\nZkjZ1YVC6QKBgG2XF+z+4PYUp1JbRpFtWEQOd85a2aKoZFjakqG6gT3NUuoFcVn2\nkmvYzrKxcWacSZlSR9w+1BUxVgUZUs9bdPVjhenmbKa4nbj87CdzWA9jx2gQCIIg\nOnblPZkVEWAEoWrfFXZlTarWatCVI8nnf0OkX79OG7V9jJF8Ss2AibzRAoGAI+dt\n8OLO7E4ctvHdWEGGOnfC6O24gXAqonegHRkNF9Pwp7npySlHG2J58wyLXCUbbh1R\nHBG9tqe8fhqh3n3uQ1OsNq+5itpuLUxWOw3s68hdoCGiwOKNkhnWjKxKmQ/LoA0R\ngRgkNb6SLufkH79Hx2O/QkS9vqxhikoIzdE38GkCgYA0Z2L1DjlPOS9jlXdlQozX\nmYS67yEWYUs3/Thq3OZrXqgxlV41N1mEOi76l1kQQ8m5WErWHKWal81e6swfNJTD\n/TdWd/MLdIzoAWC81BbPhdx+MGin5KcDDO16oFaZCyebq/+Uu9W5oSH59Y50vEMj\n0xAEufXfcPN7XUKX9gqMlA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dina-597@focused-house-425706-c7.iam.gserviceaccount.com",
+  "client_id": "102144504603883359592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dina-597%40focused-house-425706-c7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
